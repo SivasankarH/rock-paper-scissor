@@ -2,6 +2,8 @@
 
 This project focuses on deepening my knowledge of functions, Operators as well as letting me get used to them outside of isolated exercises.
 
-It was revisited later and was given an UI, Which deepened my knowledge of Event Listeners and the DOM. Lesson Link: https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors
+It was revisited later and was given an UI, Which deepened my knowledge of Event Listeners and the DOM.
 
-Live Preview: [https://sivasankarh.github.io/RockPaperScissors/](https://sivasankar300.github.io/RockPaperScissors/)
+Lesson Link: https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors
+
+
